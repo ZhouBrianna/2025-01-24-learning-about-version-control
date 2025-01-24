@@ -2,4 +2,4 @@
 
 Learning about Version Control
 
-Arthur: Brianna Zhou
+Author: Brianna Zhou
