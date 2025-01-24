@@ -3,3 +3,5 @@
 Learning about Version Control
 
 Author: Brianna Zhou
+
+Solving merge conflicts is easy!
